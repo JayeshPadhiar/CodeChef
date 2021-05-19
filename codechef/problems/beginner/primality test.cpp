@@ -1,5 +1,5 @@
 /*
- *
+ * Accomplish this task by writing a computer program which will calculate whether the number is prime or not.
  */
 
 #include <iostream>
